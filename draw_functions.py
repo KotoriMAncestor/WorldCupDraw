@@ -20,6 +20,7 @@ def importTeamsFromFile(filename='teams.txt'):
                 team_details = [t.strip() for t in team_line.split(',')]
                 team = Team(*team_details)
                 pool.addToGroup(team)
+        file.close()
         return pool
             
     except FileNotFoundError:
