@@ -1,0 +1,19 @@
+# Please add teams in the following format!
+# <Team Name>, <Team Abbreviation>, <Team Seed Number (Optional, Default 1)>, <Team Host Status (Optional, Default False)>
+# If you are setting Team Host Status you MUST have a Team Seed Number parameter as well.
+# Example:
+# Arsenal,ARS
+# Arsenal,ARS,2
+# Arsenal,ARS,2,True
+
+Arsenal, ARS1,1, True
+Arsenal, ARS2,2,True
+Arsenal, ARS3,2
+Arsenal, ARS4,2
+Arsenal, ARS5,1
+Arsenal, ARS6,2
+Arsenal, ARS7,2
+Arsenal, ARS8,2
+Arsenal, ARS9,1
+Arsenal, ARS0,2
+Arsenal, ARS,2
